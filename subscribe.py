@@ -11,7 +11,7 @@
 # ---------------------------------------------------------------------
 
 
-from paho.mqtt import client as mqtt_client
+import paho.mqtt.client as mqtt_client
 from config import settings
 import random
 import time

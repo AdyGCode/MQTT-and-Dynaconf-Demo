@@ -1,6 +1,6 @@
-broker = 'per-pi-rpg'
+broker = 'per-pi4-rpg'
 port = 1883
 topic = "/python/mqtt"
 client_prefix = "python-mqtt"
 username = 'guest'
-password = 'public'
+password = 'guest'
